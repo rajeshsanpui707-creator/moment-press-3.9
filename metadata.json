@@ -1,0 +1,7 @@
+{
+  "name": "MomentPress — Personalized Photo Frames & Custom Photo Printing",
+  "description": "Create personalized wooden photo frames and custom photo prints with MomentPress. Send your photos and idea, and we'll create something made for your moment. Starting from ₹99.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
